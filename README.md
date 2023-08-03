@@ -1,1 +1,1 @@
-# restrorant_Reviews
+# "Restaurant Reviews using ML Algorithms: This GitHub repository showcases a natural language processing project that utilizes machine learning algorithms to analyze and classify restaurant reviews. The repository contains data preprocessing scripts, model implementations, and evaluation metrics to build sentiment analysis models for restaurant feedback, aiding in better customer experiences."
